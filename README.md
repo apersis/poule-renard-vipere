@@ -1,3 +1,4 @@
 # 🐓🦊🐍 Poule Renard Vipere
 
-![](DemoPRV.gif)
+
+<img src="DemoPRV.gif" alt="Description de la vidéo" width="500" height="auto">
