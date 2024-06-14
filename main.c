@@ -1,3 +1,6 @@
+// gcc -o main main.c function.c -lSDL2
+// ./main
+
 #include <SDL2/SDL.h>
 #include <unistd.h>
 #include "function.h"
