@@ -132,11 +132,11 @@ int main(){
 void drawEmoji(){
     for(int i=0;i<NBR_EMOJI;i++){
         if(emoji[i].type==0){
-            sprite(emoji[i].x,emoji[i].y,"./pierre.png");
+            sprite(emoji[i].x,emoji[i].y,"./renard.bmp");
         }else if(emoji[i].type==1){
-            sprite(emoji[i].x,emoji[i].y,"./feuille.png");
+            sprite(emoji[i].x,emoji[i].y,"./poule.bmp");
         }else if (emoji[i].type==2){
-            sprite(emoji[i].x,emoji[i].y,"./ciseaux.png");
+            sprite(emoji[i].x,emoji[i].y,"./vipere.bmp");
         }
         //drawSquare(emoji[i].x,emoji[i].y,TAILLE_EMOJI);
         
