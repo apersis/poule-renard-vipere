@@ -8,7 +8,9 @@ Le jeu inclue de l'aleatoire ce qui fait que chaque partie est differente, les p
 Le jeu est codé en C dans un [SDL](https://gitlab.com/ilanlo/sdl_lib_v2).
 
 Pour compiler et lancer le jeu sur système UNIX :
-```gcc -o main main.c function.c -lSDL2
-./main```
+```
+gcc -o main main.c function.c -lSDL2
+./main
+```
 
 <img src="DemoPRV.gif" alt="Description de la vidéo" width="800" height="auto">
